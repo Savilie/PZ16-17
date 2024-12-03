@@ -61,7 +61,7 @@ public:
     void changeName(string newName);
 
     // Метод для вывода информации о животном
-    void printInfo();
+    virtual void printInfo();
 
     //// ОПЕРАТОРЫ ВСЯКИЕ
     Animal operator++();

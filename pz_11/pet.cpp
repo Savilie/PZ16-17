@@ -48,11 +48,12 @@ string Pet::getOwner() {
 
 // методы
 
-void Pet::displayPet() {
+void Pet::printInfo() {
 	cout << "Питомец: " << this->getName()
 		<< " | Вид: " << this->getSpecies()
 		<< " | Окрас: " << this->getColor()
 		<< " | Возраст: " << this->getAge()
 		<< " | Вес: " << this->getWeight()
 		<< " | Владелец: " << this->owner << endl;
+	
 }

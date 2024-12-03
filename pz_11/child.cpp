@@ -43,7 +43,7 @@ string Child::getStudyPlace() {
 
 // методы
 
-void Child::displayChild() {
+void Child::print() {
 	cout << "Ребенок: " << this->getFirstName() << " " << this->getLastName()
 		<< " | Возраст: " << this->getAge()
 		<< " | Вес: " << this->getWeight()

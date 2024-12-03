@@ -21,7 +21,7 @@ public:
 	bool getHasArmrest();
 
 	// методы
-	void displayPassangerCar();
+	void printInfo();
 
 private:
 	bool isSport;

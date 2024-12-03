@@ -3,42 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\danya\\source\\repos\\pz_11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\passengerCar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\passengerCar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\truck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\truck.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\truck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\truck.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\passengerCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\passengerCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\wild.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\wild.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\wild.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\wild.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\pet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\pet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -47,28 +11,24 @@
       "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\child.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\child.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\pet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\pet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\child.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\child.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\pet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\pet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\theme.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\theme.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\wild.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\wild.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\wild.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48E765E1-200B-4C5E-B3A8-69FEB0E8D36B}|pz_11\\pz_11.vcxproj|solutionrelative:pz_11\\wild.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,71 +38,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "truck.cpp",
-              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\truck.cpp",
-              "RelativeDocumentMoniker": "pz_11\\truck.cpp",
-              "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\truck.cpp",
-              "RelativeToolTip": "pz_11\\truck.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "animal.cpp",
+              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\animal.cpp",
+              "RelativeDocumentMoniker": "pz_11\\animal.cpp",
+              "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\animal.cpp*",
+              "RelativeToolTip": "pz_11\\animal.cpp*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-21T11:47:05.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "truck.h",
-              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\truck.h",
-              "RelativeDocumentMoniker": "pz_11\\truck.h",
-              "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\truck.h",
-              "RelativeToolTip": "pz_11\\truck.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-21T11:45:08.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "passengerCar.cpp",
-              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\passengerCar.cpp",
-              "RelativeDocumentMoniker": "pz_11\\passengerCar.cpp",
-              "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\passengerCar.cpp",
-              "RelativeToolTip": "pz_11\\passengerCar.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-21T11:38:49.194Z",
+              "WhenOpened": "2024-12-03T20:43:20.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "passengerCar.h",
-              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\passengerCar.h",
-              "RelativeDocumentMoniker": "pz_11\\passengerCar.h",
-              "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\passengerCar.h",
-              "RelativeToolTip": "pz_11\\passengerCar.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-21T11:32:16.221Z",
+              "Title": "wild.cpp",
+              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\wild.cpp",
+              "RelativeDocumentMoniker": "pz_11\\wild.cpp",
+              "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\wild.cpp",
+              "RelativeToolTip": "pz_11\\wild.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T20:42:58.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "car.h",
-              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\car.h",
-              "RelativeDocumentMoniker": "pz_11\\car.h",
-              "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\car.h",
-              "RelativeToolTip": "pz_11\\car.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "animal.h",
+              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\animal.h",
+              "RelativeDocumentMoniker": "pz_11\\animal.h",
+              "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\animal.h",
+              "RelativeToolTip": "pz_11\\animal.h",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-09T09:22:50.979Z",
+              "WhenOpened": "2024-12-03T20:41:52.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pet.h",
+              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\pet.h",
+              "RelativeDocumentMoniker": "pz_11\\pet.h",
+              "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\pet.h",
+              "RelativeToolTip": "pz_11\\pet.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T20:41:45.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pet.cpp",
+              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\pet.cpp",
+              "RelativeDocumentMoniker": "pz_11\\pet.cpp",
+              "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\pet.cpp*",
+              "RelativeToolTip": "pz_11\\pet.cpp*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T10:52:29.421Z",
               "EditorCaption": ""
             },
             {
@@ -153,152 +113,22 @@
               "RelativeDocumentMoniker": "pz_11\\wild.h",
               "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\wild.h",
               "RelativeToolTip": "pz_11\\wild.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-21T11:21:45.621Z",
+              "WhenOpened": "2024-12-03T20:41:36.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "pet.cpp",
-              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\pet.cpp",
-              "RelativeDocumentMoniker": "pz_11\\pet.cpp",
-              "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\pet.cpp",
-              "RelativeToolTip": "pz_11\\pet.cpp",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-21T10:52:29.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "child.h",
-              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\child.h",
-              "RelativeDocumentMoniker": "pz_11\\child.h",
-              "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\child.h",
-              "RelativeToolTip": "pz_11\\child.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-21T10:13:37.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "human.cpp",
-              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\human.cpp",
-              "RelativeDocumentMoniker": "pz_11\\human.cpp",
-              "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\human.cpp",
-              "RelativeToolTip": "pz_11\\human.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-12T06:23:15.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "animal.cpp",
-              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\animal.cpp",
-              "RelativeDocumentMoniker": "pz_11\\animal.cpp",
-              "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\animal.cpp",
-              "RelativeToolTip": "pz_11\\animal.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-09T10:19:04.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "human.h",
-              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\human.h",
-              "RelativeDocumentMoniker": "pz_11\\human.h",
-              "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\human.h",
-              "RelativeToolTip": "pz_11\\human.h",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-09T09:12:55.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\main.cpp",
               "RelativeDocumentMoniker": "pz_11\\main.cpp",
               "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\main.cpp",
               "RelativeToolTip": "pz_11\\main.cpp",
-              "ViewState": "AgIAAOQAAAAAAAAAAAAAAPMAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAAAE8BAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-08T17:39:59.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "wild.cpp",
-              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\wild.cpp",
-              "RelativeDocumentMoniker": "pz_11\\wild.cpp",
-              "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\wild.cpp",
-              "RelativeToolTip": "pz_11\\wild.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-21T11:22:58.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "theme.h",
-              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\theme.h",
-              "RelativeDocumentMoniker": "pz_11\\theme.h",
-              "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\theme.h",
-              "RelativeToolTip": "pz_11\\theme.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-11T20:10:04.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "child.cpp",
-              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\child.cpp",
-              "RelativeDocumentMoniker": "pz_11\\child.cpp",
-              "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\child.cpp",
-              "RelativeToolTip": "pz_11\\child.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-21T10:14:45.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "animal.h",
-              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\animal.h",
-              "RelativeDocumentMoniker": "pz_11\\animal.h",
-              "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\animal.h",
-              "RelativeToolTip": "pz_11\\animal.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-09T10:19:15.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "car.cpp",
-              "DocumentMoniker": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\car.cpp",
-              "RelativeDocumentMoniker": "pz_11\\car.cpp",
-              "ToolTip": "C:\\Users\\danya\\source\\repos\\pz_11\\pz_11\\car.cpp",
-              "RelativeToolTip": "pz_11\\car.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-09T09:22:35.75Z",
+              "WhenOpened": "2024-12-03T19:50:32.862Z",
               "EditorCaption": ""
             }
           ]

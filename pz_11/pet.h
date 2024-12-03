@@ -22,7 +22,7 @@ public:
 	string getOwner();
 
 	// методы
-	void displayPet();
+	void printInfo();
 
 private:
 	string owner;

@@ -48,11 +48,11 @@ bool PassangerCar::getHasArmrest() {
 
 // методы
 
-void PassangerCar::displayPassangerCar() {
+void PassangerCar::printInfo() {
 	cout << "Легковушка: " << this->getMake()
-		<< " | Цвет: " << this->getColor()
-		<< " | Тип кузова: " << this->getBodyType()
-		<< " | Объем двигателя: " << this->getEngineVolume()
-		<< " | Пробег: " << this->getMileage()
-		<< " | Спортивная машина: " << boolalpha << this->isSport << endl;
+		<< "\n | Цвет: " << this->getColor()
+		<< "\n | Тип кузова: " << this->getBodyType()
+		<< "\n | Объем двигателя: " << this->getEngineVolume()
+		<< "\n | Пробег: " << this->getMileage()
+		<< "\n | Спортивная машина: " << boolalpha << this->isSport << endl;
 }

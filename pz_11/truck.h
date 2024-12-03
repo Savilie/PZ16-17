@@ -21,7 +21,7 @@ public:
 	bool getHasTrailer();
 
 	// методы
-	void displayTruck();
+	void printInfo();
 
 private:
 	bool isAmerican;

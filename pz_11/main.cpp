@@ -176,19 +176,20 @@ int main() {
     // Текущий год для вычисления года рождения
     int currentYear = 2024;
 
-    // Обработка каждого объекта
-    Human* people[] = { &person1, &person2, &person3, person4 };
-    for (Human* person : people) {
-        person->print();
-        cout << "ИМТ: " << person->calculateBMI() << endl;
-        cout << "Год рождения: " << person->calculateBirthYear(currentYear) << endl;
-        cout << "---------------------------" << endl;
-    }
     Child child("Джамал", "Съелшоколадов", 14, 50, 165, "Школа №44");
-    child.displayChild();
 
     Adult* adult = new Adult("Ваня", "Нунурминский", 41, 80, 185, "ООО \"Паньки\"");
-    adult->displayAdult();
+    // Обработка каждого объекта
+    Human** people = new Human * [6] { &person1, & person2, & person3, person4, & child, adult};
+
+    for (int i = 0; i < 6; ++i) {
+        people[i]->print();
+        std::cout << "ИМТ: " << people[i]->calculateBMI() << std::endl;
+        std::cout << "Год рождения: " << people[i]->calculateBirthYear(currentYear) << std::endl;
+        std::cout << "---------------------------" << std::endl;
+    }
+
+
     delete adult;
 
     // Освобождение динамически выделенной памяти
@@ -217,32 +218,31 @@ int main() {
 
     ++*car4;
 
-    cout << "New engine volumEEEE: " << car4->getEngineVolume() << "\n";
+    //cout << "New engine volumEEEE: " << car4->getEngineVolume() << "\n";
 
     --*car4;
 
-    cout << "New engine volumEEEE: " << car4->getEngineVolume() << "\n";
+    //cout << "New engine volumEEEE: " << car4->getEngineVolume() << "\n";
 
-    if (car3 > *car4) cout << "Машинка - " << car3.getMake() << " круче\n\n";
-    else if (car3 < *car4) cout << "Машинка - " << car4->getMake() << " круче\n\n";
-    else cout << "Машинки одинаковые.\n\n";
-    cout << *car4;
+    //if (car3 > *car4) cout << "Машинка - " << car3.getMake() << " круче\n\n";
+    //else if (car3 < *car4) cout << "Машинка - " << car4->getMake() << " круче\n\n";
+    //else cout << "Машинки одинаковые.\n\n";
+    //cout << *car4;
 
+    PassangerCar passangerCar("Приора", "Чорная", "Седан", 1.5, 34654, false);
+
+    Truck truckCar("MAN", "Белый", "Грузовик", 2.4, 123400, false);
 
     // Обработка каждого объекта
-    Car* cars[] = { &car1, &car2, &car3, car4 };
-    for (Car* car : cars) {
-        car->printInfo();
-        cout << "Расход топлива: " << car->calculateFuelConsumption() << endl;
-        car->reduceMileage(5000); cout << "\n";
+    Car** cars = new Car*[6] { &car1, &car2, &car3, car4, &passangerCar, &truckCar };
+
+    for (int i = 0; i < 6; ++i) {
+        cars[i]->printInfo();
+        cout << "Расход топлива: " << cars[i]->calculateFuelConsumption() << endl;
+        cars[i]->reduceMileage(5000); cout << "\n";
         cout << "---------------------------" << endl;
     }
 
-    PassangerCar passangerCar("Приора", "Чорная", "Седан", 1.5, 34654, false);
-    passangerCar.displayPassangerCar();
-
-    Truck truckCar("MAN", "Белый", "Грузовик", 2.4, 123400, false);
-    truckCar.displayTruck();
 
     // Освобождение памяти
     delete car4;
@@ -303,11 +303,9 @@ int main() {
 
     // Создание объекта с помощью параметризованного конструктора
     Animal animal2("Шарик", "Пёс", "Белый", 6, 10.0);
-    animal2.printInfo();
 
     // Динамическое создание объектов
     Animal* animal3 = new Animal("Рыжик", "Кот", "Рыжий", 3, 4.0);
-    animal3->printInfo();
 
     Animal* animal4 = new Animal("Мурка", "Кошка", "Черная", 2, 3.0);
 
@@ -323,20 +321,24 @@ int main() {
     
     cout << "Теперь животное худое капец: " << animal4->getWeight() << " кг\n";
     
-    if (*animal3 > *animal4) cout << "Животное - " << animal3->getName() << " крупнее\n\n";
-    else if (*animal3 < *animal4) cout << "Животное - " << animal4->getName() << " крупнее\n\n";
-    else cout << "Животные весят одинаково.\n\n";
-    cout << *animal4;
+    //if (*animal3 > *animal4) cout << "Животное - " << animal3->getName() << " крупнее\n\n";
+    //else if (*animal3 < *animal4) cout << "Животное - " << animal4->getName() << " крупнее\n\n";
+    //else cout << "Животные весят одинаково.\n\n";
+    //cout << *animal4;
 
     Pet* pet = new Pet("Персик", "кот", "рыженький", 2, 7);
     pet->setOwner("Иван");
-    pet->displayPet();
-    delete pet;
 
     Wild wild("Лион", "Лев", "желтый", 10, 500, "Африка");
-    wild.displayWild();
+
+    Animal** animals = new Animal*[5] { &animal2, animal3, animal4, pet, &wild };
+
+    for (int i = 0; i < 5; ++i) {
+        animals[i]->printInfo();
+    }
 
     // Освобождение памяти
+    delete pet;
     delete animal3;
     delete animal4;
 

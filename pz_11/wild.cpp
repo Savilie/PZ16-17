@@ -48,7 +48,7 @@ string Wild::getCountry() {
 
 // методы
 
-void Wild::displayWild() {
+void Wild::printInfo() {
 	cout << "«верь: " << this->getName()
 		<< " | ¬ид: " << this->getSpecies()
 		<< " | ÷вет: " << this->getColor()

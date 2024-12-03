@@ -58,6 +58,8 @@ void Animal::printInfo() {
     std::cout << "Öâåò: " << color << "\n";
     std::cout << "Âîçðàñò: " << age << " ëåò\n";
     std::cout << "Âåñ: " << weight << " êã\n";
+    std::cout << "-----------------------------\n";
+
 }
 
 //// ÎÏÅÐÀÒÎÐÛ ÂÑßÊÈÅ

@@ -48,11 +48,11 @@ bool Truck::getHasTrailer() {
 
 // методы
 
-void Truck::displayTruck() {
+void Truck::printInfo() {
 	cout << "Грузовичок: " << this->getMake()
-		<< " | Цвет: " << this->getColor()
-		<< " | Тип кузова: " << this->getBodyType()
-		<< " | Объем двигателя: " << this->getEngineVolume()
-		<< " | Пробег: " << this->getMileage()
-		<< " | Американский тип кузова: " << boolalpha << this->isAmerican << endl;
+		<< "\n | Цвет: " << this->getColor()
+		<< "\n | Тип кузова: " << this->getBodyType()
+		<< "\n | Объем двигателя: " << this->getEngineVolume()
+		<< "\n | Пробег: " << this->getMileage()
+		<< "\n | Американский тип кузова: " << boolalpha << this->isAmerican << endl;
 }

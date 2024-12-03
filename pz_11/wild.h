@@ -22,7 +22,7 @@ public:
 	string getCountry();
 
 	// методы
-	void displayWild();
+	void printInfo();
 
 private:
 	string country;

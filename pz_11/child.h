@@ -21,7 +21,7 @@ public:
 	string getStudyPlace();
 
 	// методы
-	void displayChild();
+	void print();
 
 private:
 	string studyPlace;

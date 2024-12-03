@@ -48,7 +48,7 @@ public:
 
     float calculateFuelConsumption();
     void reduceMileage(int reduction);
-    void printInfo();
+    virtual void printInfo();
 
     //// Œœ≈–¿“Œ–€ ¬—ﬂ »≈
     Car operator++();
